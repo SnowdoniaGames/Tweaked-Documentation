@@ -1,4 +1,4 @@
-#recipes
+#jei
 
 Tweaks involving the mod **Just Enough Items**.
 

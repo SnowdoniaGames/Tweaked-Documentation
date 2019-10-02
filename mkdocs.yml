@@ -1,6 +1,5 @@
 pages:
     - Home: 'index.md'
-    - Roadmap: 'roadmap.md'
     - Getting Started:
       - Scripting: 'started.md'
       - Tutorial - First Script: 'tutorial.md'
@@ -15,7 +14,7 @@ pages:
     - Actions:
         - Vanilla:
             - recipes: 'actions/vanilla/recipes.md'
-        - JEI:
+        - Just Enough Items:
             - jei: 'actions/jei/jei.md'
     - Arguments:
       - all: 'arguments/all.md'
@@ -28,6 +27,8 @@ pages:
       - 'null': 'arguments/null.md'
       - ore: 'arguments/ore.md'
       - string: 'arguments/string.md'
+    - Roadmap: 'roadmap.md'
+    - Changelog: 'changelog.md'
         
 theme: 
     name: null
@@ -35,8 +36,8 @@ theme:
     theme_dir: tweaked_theme
 
 site_name: Tweaked Documentation
-site_url: 'https://mabinogigaming.github.io/Tweaked/'
-site_author: Mabinogi
+site_url: 'https://github.com/SnowdoniaGames/Tweaked'
+site_author: Snowdonia Games
 
 markdown_extensions:
     - admonition

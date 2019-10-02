@@ -2,9 +2,9 @@
 
 ###1.0.0 - The First Update
 <ul>
-  <li>First public release</li>
-  <li>Support - Vanilla crafting recipes (1.12)</li>
-  <li>Support - JEI hide (1.12)</li>
+  <li>First public release <font color="green">- complete</font></li>
+  <li>Support - Vanilla crafting recipes (1.12) <font color="green">- complete</font></li></li>
+  <li>Support - JEI hide (1.12) <font color="green">- complete</font></li></li>
 </ul>
 	
 ---
