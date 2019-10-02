@@ -1,0 +1,54 @@
+pages:
+    - Home: 'index.md'
+    - Getting Started:
+      - Scripting: 'started.md'
+      - Tutorial - First Script: 'tutorial.md'
+      - Tutorial - For Loops: 'tutorial_for.md'
+    - Commands:
+        - enchant: 'commands/enchant.md'
+        - fluid: 'commands/fluid.md'
+        - hand: 'commands/hand.md'
+        - inventory: 'commands/inventory.md'
+        - ore: 'commands/ore.md'
+        - recipe: 'commands/recipe.md'
+    - Actions:
+        - Vanilla:
+            - recipes: 'actions/vanilla/recipes.md'
+        - JEI:
+            - jei: 'actions/jei/jei.md'
+    - Arguments:
+      - all: 'arguments/all.md'
+      - boolean: 'arguments/boolean.md'
+      - float: 'arguments/float.md'
+      - fluid: 'arguments/fluid.md'
+      - ingredient: 'arguments/ingredient.md'
+      - integer: 'arguments/integer.md'
+      - item: 'arguments/item.md'
+      - 'null': 'arguments/null.md'
+      - ore: 'arguments/ore.md'
+      - string: 'arguments/string.md'
+        
+theme: 
+    name: null
+    custom_dir: tweaked_theme
+    theme_dir: tweaked_theme
+
+site_name: Tweaked Documentation
+site_url: 'https://mabinogigaming.github.io/Tweaked/'
+site_author: Mabinogi
+
+markdown_extensions:
+    - admonition
+    - smarty
+    - sane_lists
+    - pymdownx.superfences
+    - pymdownx.highlight:
+        use_pygments: false
+    - toc:
+        permalink: ' '
+
+extra:
+  logo: 'img/favicon.ico'
+  history_buttons: false
+  article_nav_top: false
+  version: '1.0.0'
