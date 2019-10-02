@@ -1,5 +1,6 @@
 pages:
     - Home: 'index.md'
+    - Roadmap: 'roadmap.md'
     - Getting Started:
       - Scripting: 'started.md'
       - Tutorial - First Script: 'tutorial.md'
