@@ -1,5 +1,14 @@
 # Tweaked
 
+###1.0.1
+<ul>
+  <li>(1.12) Added Action - [furnace.add](/actions/vanilla/furnace/#add)</li>
+  <li>(1.12) Added Action - [furnace.remove](/actions/vanilla/furnace/#remove)</li>
+  <li>(1.12) Added Action - [furnace.fuel.add](/actions/vanilla/furnace/#fuel.add)</li>
+  <li>(1.12) Added Action - [furnace.fuel.remove](/actions/vanilla/furnace/#fuel.remove)</li>
+  <li>Added displaying of file name when logging compilation errors.</li>
+</ul>
+
 ##1.0.0
 <ul>
   <li>(1.12) Added Action - [recipes.shaped](/actions/vanilla/recipes/#shaped)</li>

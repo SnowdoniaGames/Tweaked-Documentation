@@ -13,6 +13,7 @@ pages:
         - recipe: 'commands/recipe.md'
     - Actions:
         - Vanilla:
+            - furnace: 'actions/vanilla/furnace.md'
             - recipes: 'actions/vanilla/recipes.md'
         - Just Enough Items:
             - jei: 'actions/jei/jei.md'
@@ -53,4 +54,4 @@ extra:
   logo: 'img/favicon.ico'
   history_buttons: false
   article_nav_top: false
-  version: '1.0.0'
+  version: '1.0.1'

@@ -11,7 +11,7 @@
 	
 ###1.1.0 - Thermal Update
 <ul>
-  <li>Support - Vanilla furnace recipes (1.12)</li>
+  <li>Support - Vanilla furnace recipes (1.12) <font color="green">- complete</font></li>
   <li>Support - Thermal Expansion (1.12)</li>
 </ul>
 
