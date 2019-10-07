@@ -17,6 +17,14 @@ pages:
             - recipes: 'actions/vanilla/recipes.md'
         - Just Enough Items:
             - jei: 'actions/jei/jei.md'
+        - Thermal Expansion:
+            - Devices:
+                - te.collector: 'actions/te/collector.md'
+                - te.coolant: 'actions/te/coolant.md'
+                - te.diffuser: 'actions/te/diffuser.md'
+                - te.factorizer: 'actions/te/factorizer.md'
+                - te.fisher: 'actions/te/fisher.md'
+                - te.tapper: 'actions/te/tapper.md'
     - Arguments:
       - all: 'arguments/all.md'
       - boolean: 'arguments/boolean.md'
@@ -54,4 +62,4 @@ extra:
   logo: 'img/favicon.ico'
   history_buttons: false
   article_nav_top: false
-  version: '1.0.1'
+  version: '1.0.2'

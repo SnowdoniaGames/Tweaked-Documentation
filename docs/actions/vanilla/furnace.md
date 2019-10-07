@@ -5,7 +5,7 @@ Tweaks involving changing of Vanilla furnace recipes and fuels.
 <br>
 
 ---
-## add
+## add ![](/img/version_1.12.png)
 
 <pre>furnace.add : <a href="/arguments/item/">item</a> output, <a href="/arguments/item/">item</a> input</pre>
 <pre>furnace.add : <a href="/arguments/item/">item</a> output, <a href="/arguments/item/">item</a> input, <a href="/arguments/float/">float</a> experience</pre>
@@ -21,7 +21,7 @@ Adds a recipe to the furnace with the option to specify the experience dropped.
 <br>
 
 ---
-## remove
+## remove ![](/img/version_1.12.png)
 
 <pre>furnace.remove : <a href="/arguments/all/">all</a> *</pre>
 <pre>furnace.remove : <a href="/arguments/item/">item</a> output</pre>
@@ -40,7 +40,7 @@ Remove all or a recipe specified by its output.
 <br>
 
 ---
-## fuel.add
+## fuel.add ![](/img/version_1.12.png)
 
 <pre>furnace.fuel.add : <a href="/arguments/item/">item</a> fuel, <a href="/arguments/integer/">integer</a> burnTime)</pre>
 
