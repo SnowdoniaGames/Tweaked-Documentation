@@ -49,7 +49,7 @@ This means that when adding a custom tree, the correct leaves will need to be re
 <br>
 
 ---
-## fertiizer.add ![](/img/version_1.12.png)
+## fertilizer.add ![](/img/version_1.12.png)
 
 <pre>te.tapper.fertilizer.add : <a href="/arguments/item/">item</a> item, <a href="/arguments/integer/">integer</a> multiplier</pre>
 
