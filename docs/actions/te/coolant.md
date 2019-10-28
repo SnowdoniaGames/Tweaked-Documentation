@@ -2,6 +2,9 @@
 
 Tweaks involving Coolants for the Thermal Mediator from Thermal Expansion.
 
+!!! note
+	The [coolant](/commands/te/#te-coolant) command can be used to view recipes.
+
 <br>
 
 ---

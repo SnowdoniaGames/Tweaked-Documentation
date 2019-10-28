@@ -2,6 +2,9 @@
 
 Tweaks involving the Decoctive Diffuser from Thermal Expansion.
 
+!!! note
+	The [diffuser](/commands/te/#te-diffuser) command can be used to view recipes.
+
 <br>
 
 ---

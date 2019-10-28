@@ -11,6 +11,7 @@ pages:
         - inventory: 'commands/inventory.md'
         - ore: 'commands/ore.md'
         - recipe: 'commands/recipe.md'
+        - te (Thermal Expansion): 'commands/te.md'
     - Actions:
         - Vanilla:
             - furnace: 'actions/vanilla/furnace.md'
@@ -25,6 +26,14 @@ pages:
                 - te.factorizer: 'actions/te/factorizer.md'
                 - te.fisher: 'actions/te/fisher.md'
                 - te.tapper: 'actions/te/tapper.md'
+            - Machines:
+                - te.compactor: 'actions/te/compactor.md'
+                - te.crucible: 'actions/te/crucible.md'
+                - te.furnace: 'actions/te/furnace.md'
+                - te.insolator: 'actions/te/insolator.md'
+                - te.pulverizer: 'actions/te/pulverizer.md'
+                - te.sawmill: 'actions/te/sawmill.md'
+                - te.smelter: 'actions/te/smelter.md'
     - Arguments:
       - all: 'arguments/all.md'
       - boolean: 'arguments/boolean.md'
@@ -62,4 +71,4 @@ extra:
   logo: 'img/favicon.ico'
   history_buttons: false
   article_nav_top: false
-  version: '1.0.2'
+  version: '1.0.3'

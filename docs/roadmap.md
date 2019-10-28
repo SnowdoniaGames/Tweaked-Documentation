@@ -16,8 +16,16 @@
 </ul>
 
 ---
+
+###1.2.0 - Tinkers Update
+<ul>
+  <li>Support - Tinkers Construct smeltery (1.12)</li>
+  <li>Support - Tinkers Construct tools (1.12)</li>
+</ul>
+
+---
 	
-###1.2.0 - Vanilla Update
+###1.3.0 - Vanilla Update
 <ul>
   <li>Support - Vanilla anvil recipes (1.12)</li>
   <li>Support - Vanilla brewing recipes (1.12)</li>
@@ -26,15 +34,6 @@
   <li>Support - Vanilla loot drops (1.12)</li>
   <li>Support - Vanilla seed drops (1.12)</li>
   <li>Support - Vanilla villager trades (1.12)</li>
-</ul>
-
----
-
-###1.3.0 - Tinkers Update
-<ul>
-  <li>Support - Tinkers Construct smeltery recipes (1.12)</li>
-  <li>Support - Tinkers Construct tool materials (1.12)</li>
-  <li>Support - Tinkers Construct tool types (1.12)</li>
 </ul>
 
 ---

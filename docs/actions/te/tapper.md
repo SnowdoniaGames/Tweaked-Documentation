@@ -2,6 +2,9 @@
 
 Tweaks involving the Arboreal Extractor from Thermal Expansion.
 
+!!! note
+	The [tapper](/commands/te/#te-tapper) command can be used to view recipes.
+
 <br>
 
 ---

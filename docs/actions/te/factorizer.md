@@ -2,6 +2,9 @@
 
 Tweaks involving the Factorizer from Thermal Expansion.
 
+!!! note
+	The [factorizer](/commands/te/#te-factorizer) command can be used to view recipes.
+
 <br>
 
 ---

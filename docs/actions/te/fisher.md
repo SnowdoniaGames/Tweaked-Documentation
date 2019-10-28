@@ -2,6 +2,9 @@
 
 Tweaks involving the Aquatic Entangler from Thermal Expansion.
 
+!!! note
+	The [fisher](/commands/te/#te-fisher) command can be used to view recipes.
+
 <br>
 
 ---

@@ -2,6 +2,9 @@
 
 Tweaks involving the Insightful Condenser from Thermal Expansion.
 
+!!! note
+	The [collector](/commands/te/#te-collector) command can be used to view recipes.
+
 <br>
 
 ---
